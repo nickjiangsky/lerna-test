@@ -1,5 +1,5 @@
 {
-  "name": "@sky/nick-test",
+  "name": "nick-test",
   "version": "0.1.14",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "1509ddecc2735cb375e9cf470f56fad37c80204b"
+  "gitHead": "6692b2e3c782fedff8d75e4699478ccd4e6e11dc"
 }
