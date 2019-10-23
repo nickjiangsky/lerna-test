@@ -1,12 +1,16 @@
 {
   "name": "nick-test",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "http://artifactory.skynz-dev-ci.skytv.co.nz/artifactory/api/npm/npm-registry"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "0bf1e876ef12e05588d5efba243668feb6309635"
 }
